@@ -1,11 +1,14 @@
-
+##
 ![logo](https://github.com/user-attachments/assets/26a7175c-1805-490f-823a-82581e5d80fa)
 <h1 align="center">Hi 👋, I'm vaibhav bandgar</h1>
 <h3 align="center">A passionate fullstack dotnet developer from India</h3>
 
 
+##
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **fullstack dot net development**
+
+- 🌱 I’m currently learning   Fullstack dot net development
 
 - 👨‍💻 Portfolio website [https://vaibhavbandgar.netlify.app/](https://vaibhavbandgar.netlify.app/)
 
